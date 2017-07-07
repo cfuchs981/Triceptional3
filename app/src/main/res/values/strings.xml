@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Triceptional</string>
+    <string name="update">UPDATE</string>
+    <string name="foodheader">Daily Nutrition</string>
+    <string name="limit">8 to 6, 3 or 4</string>
+    <string name ="info">Updated every Monday since 07/17/17</string>
+    <string name ="reward">REWARDS</string>
+    <string name="currentWaistLabel">Current Waist (in)</string>
+    <string name="currentwaist">0</string>
+    <string name="currentHipsLabel">Current Hips (in)</string>
+    <string name="currenthips">0</string>
+    <string name="currentweightLabel">Current Weight (lbs)</string>
+    <string name ="currentweight">0</string>
+    <string name="currentChestLabel">Current Chest (in)</string>
+    <string name="currentchest">0</string>
+    <string name="food">NUTRITION</string>
+    <string name="progo">VIEW PROGRESS</string>
+    <string name="title">WORKOUTS</string>
+    <string name="reset">RESET</string>
+    <string name="save">SAVE CHANGES</string>
+    <string name="foodTypePlace">Type Food Here</string>
+    <string name="amount">Calorie Amount</string>
+    <string name="currentCal">Current Cal:</string>
+</resources>
